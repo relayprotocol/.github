@@ -1,5 +1,3 @@
-## Hi there 👋
+# Welcome to the RelayProtocol GitHub!
 
-
-Welcome to the RelayProtocol Github!
-
+We’re the team behind [Relay](https://relay.link/), and we’re now building the Relay Protocol!
