@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/relayprotocol/.github/blob/main/profile/lockup_violet.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/relayprotocol/.github/blob/main/profile/lockup_white.png">
     <img alt="reservoir logo" src="https://github.com/relayprotocol/.github/blob/main/profile/lockup_violet.png" width="auto" height="60">
   </picture>
 </p>
