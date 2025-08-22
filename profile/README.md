@@ -9,6 +9,7 @@
   
 <p>
 <div align="center">
+  <a href="https://relay.link/bridge"><b>App</b></a> |
   <a href="https://docs.relay.link"><b>Docs</b></a>  | 
   <a href="https://docs.relay.link/references/api/overview"><b>API</b></a> |
   <a href="https://docs.relay.link/references/sdk/getting-started"><b>SDK</b></a>
