@@ -2,7 +2,7 @@
 
 _Last updated: September 10, 2025_
 
-This Privacy Policy explains how information about you is collected, used, and disclosed by Uneven Labs (“Uneven Labs,” “we,” “our,” “ours,” and “us”). This Privacy Policy applies to information we collect when you use the website operated by us and located at https://relay.link/ (the “Relah Website”), and all associated websites linked to https://relay.link/ by us, or when you otherwise interact with the services or tools we provide.
+This Privacy Policy explains how information about you is collected, used, and disclosed by Uneven Labs (“Uneven Labs,” “we,” “our,” “ours,” and “us”). This Privacy Policy applies to information we collect when you use the website operated by us and located at https://relay.link/ (the “Relay Website”), and all associated websites linked to https://relay.link/ by us, or when you otherwise interact with the services or tools we provide.
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification).
 
 ## 1. Collection of Information.
