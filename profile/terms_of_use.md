@@ -1,6 +1,6 @@
 # Terms of Use
 
-*Last updated: November 6, 2026*
+*Last updated: November 9, 2026*
 
 Relay is a digital asset swapping platform developed by Uneven Labs, Inc., a Delaware corporation (“Uneven Labs,” “we,” “our,” or “us”). “Relay” consists of (i) our website located at https://relay.link (the “Relay Website”) and (ii) multiple components that can be accessed through the Relay Website, including the Relay APIs (hosted Application Programming Interfaces for building swaps applications), the RelayKit (a developer toolkit), Deposit Addresses (a feature that allows users to initiate swaps by transferring digital assets to a system-generated blockchain deposit address), and the Relay Protocol (an open-source cross-chain swaps protocol).
 
